@@ -1,5 +1,8 @@
-# LV-426
-A sonified interpretation of a derelict ship from the film "Alien"
+<h3 align="center">
+  <img height="40%" width="40%" src="https://github.com/cskonopka/LV-426/blob/master/static/img/lv426.png?raw=true"/>
+</h3>
+
+<p align="center"><em>A sonified interpretation of a derelict ship from the film "Alien". </em></p> 
 
 #### Instructions
 1) Download repo
